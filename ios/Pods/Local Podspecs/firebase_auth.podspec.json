@@ -24,7 +24,7 @@
 
     ],
     "Firebase/Auth": [
-      "10.17.0"
+      "10.18.0"
     ]
   },
   "static_framework": true,
